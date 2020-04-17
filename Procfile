@@ -1,1 +1,1 @@
-web: python3 Humo.py
+web: python Humo.py
