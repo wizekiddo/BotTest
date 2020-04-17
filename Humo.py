@@ -16,7 +16,7 @@ server = Flask(__name__)
 
 def MLALGOL(testfromuser):
     # Read the data
-    df = pd.read_csv('CSV files/news.csv')
+    df = pd.read_csv('NOID.csv')
     # Get shape and head
     df.shape
     df.head()
