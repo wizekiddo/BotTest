@@ -1,8 +1,6 @@
 import os
-
 from flask import Flask,request
 import pandas as pd
-import requests
 import telebot
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import PassiveAggressiveClassifier
