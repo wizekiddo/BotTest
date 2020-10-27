@@ -9,7 +9,7 @@ Click==7.0
 colorama==0.4.3
 config==0.4.2
 Corpus==0.4.2
-cryptography==2.8
+cryptography==3.2
 Cython==0.29.15
 decorator==4.4.2
 et-xmlfile==1.0.1
