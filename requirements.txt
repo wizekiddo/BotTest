@@ -29,7 +29,7 @@ numpy==1.18.1
 openpyxl==3.0.3
 packaging==19.2
 pandas==1.0.1
-paramiko==2.7.1
+paramiko==2.10.1
 parse==1.15.0
 parse-type==0.5.2
 pathtools==0.1.2
